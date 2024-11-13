@@ -1,1 +1,1 @@
-# pico-tutorial
+Raspberry Pi Picoを使って組み込みプログラムを試してみるためのリポジトリ。
